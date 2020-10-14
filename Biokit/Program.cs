@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.SignalR.Client;
+using Microsoft.Extensions.Configuration;
 using System;
+using System.IO;
 
 namespace Biokit
 {
@@ -10,8 +12,14 @@ namespace Biokit
             Console.WriteLine("Press a key to start listening..");
             Console.ReadKey();
 
+            var builder = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json");
+
+            var configuration = builder.Build();
+
+            var url = configuration["hostUrl"];
             var connection = new HubConnectionBuilder()
-                .WithUrl("https://localhost:44367/applicationshub")
+                .WithUrl(url)
                 .Build();
 
             var clientInfo = new ConnectedClient

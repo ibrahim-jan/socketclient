@@ -30,3 +30,10 @@ C:\sample dotnet applications\Biokit\Biokit\obj\Release\netcoreapp3.1\Biokit.csp
 C:\sample dotnet applications\Biokit\Biokit\obj\Release\netcoreapp3.1\Biokit.dll
 C:\sample dotnet applications\Biokit\Biokit\obj\Release\netcoreapp3.1\Biokit.pdb
 C:\sample dotnet applications\Biokit\Biokit\obj\Release\netcoreapp3.1\Biokit.genruntimeconfig.cache
+C:\sample dotnet applications\Biokit\Biokit\bin\Release\netcoreapp3.1\appsettings.json
+C:\sample dotnet applications\Biokit\Biokit\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\sample dotnet applications\Biokit\Biokit\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\sample dotnet applications\Biokit\Biokit\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\sample dotnet applications\Biokit\Biokit\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\sample dotnet applications\Biokit\Biokit\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\sample dotnet applications\Biokit\Biokit\obj\Release\netcoreapp3.1\Biokit.csprojAssemblyReference.cache
