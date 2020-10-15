@@ -1,5 +1,5 @@
-C:\sample dotnet applications\Biokit\Biokit\bin\Debug\netcoreapp3.1\Biokit.exe
 C:\sample dotnet applications\Biokit\Biokit\bin\Debug\netcoreapp3.1\appsettings.json
+C:\sample dotnet applications\Biokit\Biokit\bin\Debug\netcoreapp3.1\Biokit.exe
 C:\sample dotnet applications\Biokit\Biokit\bin\Debug\netcoreapp3.1\Biokit.deps.json
 C:\sample dotnet applications\Biokit\Biokit\bin\Debug\netcoreapp3.1\Biokit.runtimeconfig.json
 C:\sample dotnet applications\Biokit\Biokit\bin\Debug\netcoreapp3.1\Biokit.runtimeconfig.dev.json
